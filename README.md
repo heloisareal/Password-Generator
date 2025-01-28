@@ -18,6 +18,7 @@
 
 ### Acesse também
 - Meu Linkedln: www.linkedin.com/in/heloisareal
+- O site do projeto: https://heloisareal.github.io/Password-Generator/
 
 #### Inspiração:
 Este projeto foi desenvolvido com base no tutorial do YouTube: https://www.youtube.com/watch?v=L7d6VdI8Cnk. O vídeo serviu como guia e fonte de aprendizado para a implementação das funcionalidades do gerador de senhas.
